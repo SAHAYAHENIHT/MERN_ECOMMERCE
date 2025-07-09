@@ -102,6 +102,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-[StevenSriram](https://github.com/StevenSriram)
+[SAHAYA HENITH](https://github.com/SAHAYAHENIHT/MERN_ECOMMERCE)
 
 💙 If you like this project, give it a ⭐ on GitHub! 🚀
